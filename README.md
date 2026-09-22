@@ -11,14 +11,14 @@
 **Database:** SQL · MongoDB  
 **Tools:** Git · GitHub · n8n · Python · AI/RAG
 
-### 💻 Featured Projects
+### Featured Projects
 
 - 🌾 **Rice Farming Telegram AI Workflow** — n8n · Telegram · AI
 - 🌱 **DrKaset Agricultural AI Assistant** — React · API · AI/RAG
 - 🍽️ **Restaurant POS** — Web Application · JavaScript · Database
 - 💼 **Personal Portfolio** — React · JavaScript · CSS
 
-### 📚 Currently Learning
+### Currently Learning
 
 React · Backend Development · SQL · Software Development
 
