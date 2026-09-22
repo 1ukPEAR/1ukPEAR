@@ -13,11 +13,11 @@
 
 ## About Me
 
-I'm a Computer Science student at Sripatum University with an interest in Web Development and Software Development.
+I'm a Computer Science student at Sripatum University interested in
+**Web Development, Software Development, AI, and Automation**.
 
-I enjoy building web applications, working with APIs, and exploring AI-related technologies such as RAG and workflow automation.
-
-Currently focusing on improving my skills in React, JavaScript, Backend Development, and Database Management.
+I build web applications, work with APIs and databases, and explore
+AI technologies such as **RAG and workflow automation**.
 
 ---
 
@@ -53,38 +53,7 @@ Currently focusing on improving my skills in React, JavaScript, Backend Developm
 
 ---
 
-## Featured Projects
-
-### Rice Farming Telegram AI Workflow
-**n8n · Telegram · AI · Google Sheets**
-
-Telegram-based agricultural assistant using workflow automation and AI to support rice farming operations.
-
-### DrKaset Agricultural AI Assistant
-**React · FastAPI · RAG · FAISS · Ollama · MySQL**
-
-Agricultural AI assistant using Retrieval-Augmented Generation to provide information from agricultural reference documents.
-
-### Restaurant POS Management System
-**React · Node.js · Express · MongoDB**
-
-Full-stack restaurant management and POS system covering menus, tables, orders, payments, and sales management.
-
-### Food Ordering
-**C# · CSHTML · JavaScript · SQL**
-
-Full-stack online food ordering and restaurant management system with Customer, Employee, and Owner roles.
-
----
-
-## Currently Learning
-
-**React** · **Backend Development** · **SQL** · **Software Development**
-
----
-
 ## Contact
 
-Portfolio: [thararat-portfolio.vercel.app](https://thararat-portfolio.vercel.app/)
-
-Email: [thararat.sinsom@gmail.com](mailto:thararat.sinsom@gmail.com)
+[Portfolio](https://thararat-portfolio.vercel.app/) ·
+[Email](mailto:thararat.sinsom@gmail.com)
