@@ -1,10 +1,10 @@
-# Hi, I'm Pear 👋
+# Hi, I'm lukPEAR 👋
 
 🎓 Computer Science Student at Sripatum University  
 💻 Interested in Web Development & Software Development  
 🌱 Currently learning React, JavaScript, Backend & Database
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Frontend:** HTML · CSS · JavaScript · React.js · Bootstrap  
 **Backend:** Node.js · REST API · Express.js
@@ -22,7 +22,7 @@
 
 React · Backend Development · SQL · Software Development
 
-### 📫 Contact
+### Contact
 
 🌐 Portfolio: https://thararat-portfolio.vercel.app/
 📧 Email: thararat.sinsom@gmail.com
