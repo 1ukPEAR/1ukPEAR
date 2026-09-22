@@ -32,17 +32,6 @@ and personal projects.
 
 ---
 
-## Focus
-
-- 🌐 Web Application Development
-- ⚛️ Frontend & Full Stack Development
-- 🎨 UX/UI Design with Figma
-- 🔗 API & Database Integration
-- 🤖 AI / RAG Applications
-- ⚙️ Workflow Automation
-
----
-
 ## Tech Stack
 
 ### Frontend
@@ -78,9 +67,14 @@ and personal projects.
 
 <div align="center">
 
-### Let's Connect
+## Let's Connect
+
+Interested in **Web Development, Full Stack Development, and UX/UI Design**.
+
+I'm always open to learning, collaborating, and exploring new opportunities.
 
 [🌐 Portfolio](https://thararat-portfolio.vercel.app/) ·
+[💼 LinkedIn](YOUR_LINKEDIN_URL) ·
 [📧 Email](mailto:thararat.sinsom@gmail.com)
 
 </div>
