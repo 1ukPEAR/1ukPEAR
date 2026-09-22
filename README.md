@@ -4,11 +4,8 @@
 
 ### Computer Science Student · Web Developer · UX/UI Enthusiast
 
-Interested in building web applications with a focus on
-**Frontend, Full Stack Development, and User Experience.**
+Interested in creating **web applications and user-centered digital experiences.**
 
-[🌐 Portfolio](https://thararat-portfolio.vercel.app/) ·
-[📧 Email](mailto:thararat.sinsom@gmail.com)
 
 </div>
 
@@ -19,16 +16,14 @@ Interested in building web applications with a focus on
 I'm a **4th-year Computer Science and Software Development Innovation student**
 at **Sripatum University**.
 
-I'm interested in **Web Development and Full Stack Development**, with
-hands-on experience working with technologies such as **React, JavaScript,
-Node.js, APIs, and MongoDB**.
+I enjoy turning ideas into functional web applications, from designing
+interfaces to developing frontend and backend features.
 
-I also enjoy **UX/UI Design using Figma**, focusing on user experience,
-interface structure, and designing applications that are practical and easy
-to use for different types of users.
+My experience includes working with **React, JavaScript, Node.js, APIs,
+and MongoDB**, along with **UX/UI design using Figma**.
 
-I'm also exploring **AI, RAG, and workflow automation** through academic
-and personal projects.
+I'm also interested in exploring **AI, RAG, and workflow automation**
+through academic and team projects.
 
 ---
 
@@ -69,12 +64,10 @@ and personal projects.
 
 ## Let's Connect
 
-Interested in **Web Development, Full Stack Development, and UX/UI Design**.
-
-I'm always open to learning, collaborating, and exploring new opportunities.
+Always happy to **learn, collaborate, and build something meaningful together.**
 
 [🌐 Portfolio](https://thararat-portfolio.vercel.app/) ·
-[💼 LinkedIn](YOUR_LINKEDIN_URL) ·
+[💼 LinkedIn](www.linkedin.com/in/tararat-sinsom-983932430) ·
 [📧 Email](mailto:thararat.sinsom@gmail.com)
 
 </div>
