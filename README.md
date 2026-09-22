@@ -1,11 +1,14 @@
 <div align="center">
 
-# Hi, I'm lukPEAR
+# Hi, I'm lukPEAR 👋
 
-### Computer Science Student · Web Development · Software Development
+### Computer Science Student · Web Developer · UX/UI Enthusiast
 
-[Portfolio](https://thararat-portfolio.vercel.app/) ·
-[Email](mailto:thararat.sinsom@gmail.com)
+Interested in building web applications with a focus on
+**Frontend, Full Stack Development, and User Experience.**
+
+[🌐 Portfolio](https://thararat-portfolio.vercel.app/) ·
+[📧 Email](mailto:thararat.sinsom@gmail.com)
 
 </div>
 
@@ -13,11 +16,30 @@
 
 ## About Me
 
-I'm a Computer Science student at Sripatum University interested in
-**Web Development, Software Development, AI, and Automation**.
+I'm a **4th-year Computer Science and Software Development Innovation student**
+at **Sripatum University**.
 
-I build web applications, work with APIs and databases, and explore
-AI technologies such as **RAG and workflow automation**.
+I'm interested in **Web Development and Full Stack Development**, with
+hands-on experience working with technologies such as **React, JavaScript,
+Node.js, APIs, and MongoDB**.
+
+I also enjoy **UX/UI Design using Figma**, focusing on user experience,
+interface structure, and designing applications that are practical and easy
+to use for different types of users.
+
+I'm also exploring **AI, RAG, and workflow automation** through academic
+and personal projects.
+
+---
+
+## Focus
+
+- 🌐 Web Application Development
+- ⚛️ Frontend & Full Stack Development
+- 🎨 UX/UI Design with Figma
+- 🔗 API & Database Integration
+- 🤖 AI / RAG Applications
+- ⚙️ Workflow Automation
 
 ---
 
@@ -31,29 +53,34 @@ AI technologies such as **RAG and workflow automation**.
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-### Backend
+### Backend & Database
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square)
-
-### Database
-
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-### Tools & AI
+### Design & Tools
 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### AI
+
 ![AI](https://img.shields.io/badge/AI-412991?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-6B46C1?style=flat-square)
 
 ---
 
-## Contact
+<div align="center">
 
-[Portfolio](https://thararat-portfolio.vercel.app/) ·
-[Email](mailto:thararat.sinsom@gmail.com)
+### Let's Connect
+
+[🌐 Portfolio](https://thararat-portfolio.vercel.app/) ·
+[📧 Email](mailto:thararat.sinsom@gmail.com)
+
+</div>
